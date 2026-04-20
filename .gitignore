@@ -1,0 +1,7 @@
+checkpoint/
+/tmp/waveguard_checkpoint*
+/tmp/waveguard_lake/
+*.tmp
+*.crc
+__pycache__/
+.DS_Store

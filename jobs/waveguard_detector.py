@@ -15,7 +15,6 @@ spark = SparkSession.builder \
     .config('spark.jars.packages',
     'org.apache.spark:spark-sql-kafka-0-10_2.12:3.4.0') \
     .master("spark://spark-master:7077") \
-    .config('spark.sql.streaming.checkpointLocation', '/tmp/waveguard_checkpoint') \
     .getOrCreate()
 
 spark.sparkContext.setLogLevel('WARN')
