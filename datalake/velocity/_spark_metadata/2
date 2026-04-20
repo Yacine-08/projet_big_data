@@ -1,0 +1,4 @@
+v1
+{"path":"file:///tmp/waveguard_lake/velocity/part-00000-611f1c13-9ddc-49f6-84bc-3b2c60139da5-c000.snappy.parquet","size":777,"isDir":false,"modificationTime":1776725685924,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///tmp/waveguard_lake/velocity/part-00065-abd4c351-c82a-47d8-a98e-baa15a1005d4-c000.snappy.parquet","size":1949,"isDir":false,"modificationTime":1776725696455,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///tmp/waveguard_lake/velocity/part-00130-b0cd5c70-9600-485f-a5f6-a2a357dae5c4-c000.snappy.parquet","size":1949,"isDir":false,"modificationTime":1776725707825,"blockReplication":1,"blockSize":33554432,"action":"add"}
